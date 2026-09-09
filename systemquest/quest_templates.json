@@ -1,0 +1,336 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "categories": {
+    "BODY": {
+      "examples": [
+        {"goal":"Build a consistent walking routine","subCategory":"WALKING_CARDIO","timePerDay":"MIN_30","difficulty":"EASY"},
+        {"goal":"Improve full-body strength safely","subCategory":"MUSCLE_BUILDING","timePerDay":"HOUR_1","difficulty":"NORMAL"},
+        {"goal":"Create a sustainable fat-loss routine","subCategory":"WEIGHT_LOSS","timePerDay":"MIN_30","difficulty":"NORMAL"},
+        {"goal":"Move with better flexibility every day","subCategory":"MOBILITY_FLEXIBILITY","timePerDay":"MIN_15","difficulty":"EASY"},
+        {"goal":"Build a balanced everyday nutrition routine","subCategory":"NUTRITION","timePerDay":"MIN_30","difficulty":"NORMAL"},
+        {"goal":"Improve sleep quality and daily recovery","subCategory":"SLEEP_RECOVERY","timePerDay":"MIN_15","difficulty":"EASY"}
+      ],
+      "actions": [
+        "complete a controlled practice session",
+        "improve one movement pattern with careful form",
+        "repeat the most sustainable part of the routine",
+        "measure one useful fitness signal",
+        "prepare the next session before motivation drops",
+        "reduce one source of friction in the routine",
+        "complete a lighter session without breaking consistency",
+        "test one small progression and record the result"
+      ],
+      "skillQuests": [
+        "Learn one safe {specialization} technique and apply it during today's session.",
+        "Review one reliable {specialization} principle and correct one mistake.",
+        "Observe your form, breathing, or recovery and record one useful adjustment.",
+        "Prepare the equipment, food, or environment needed for tomorrow's {specialization} work."
+      ],
+      "reflections": [
+        "How did my body respond to today's {specialization} work?",
+        "Which part of today's session felt sustainable enough to repeat?",
+        "What small recovery choice would improve tomorrow's {specialization} session?",
+        "What evidence shows that my fitness routine is becoming more consistent?"
+      ]
+    },
+    "MIND": {
+      "examples": [
+        {"goal":"Create a calm and consistent morning routine","subCategory":"MORNING_ROUTINE","timePerDay":"MIN_30","difficulty":"EASY"},
+        {"goal":"Start important tasks without procrastinating","subCategory":"STOP_PROCRASTINATION","timePerDay":"MIN_15","difficulty":"NORMAL"},
+        {"goal":"Reduce unnecessary phone use every day","subCategory":"PHONE_DETOX","timePerDay":"MIN_30","difficulty":"NORMAL"},
+        {"goal":"Build a simple daily meditation practice","subCategory":"MEDITATION","timePerDay":"MIN_15","difficulty":"EASY"},
+        {"goal":"Journal consistently and understand my patterns","subCategory":"JOURNALING","timePerDay":"MIN_15","difficulty":"EASY"},
+        {"goal":"Strengthen discipline through small daily promises","subCategory":"BUILD_DISCIPLINE","timePerDay":"MIN_30","difficulty":"HARD"}
+      ],
+      "actions": [
+        "remove one trigger that starts the old pattern",
+        "practice the replacement response before it is needed",
+        "protect one distraction-free focus block",
+        "complete the smallest version of the habit",
+        "delay one impulse and observe what changes",
+        "prepare a visible cue for the desired behavior",
+        "repeat yesterday's strongest discipline choice",
+        "recover from one slip without abandoning the day"
+      ],
+      "skillQuests": [
+        "Identify one {specialization} trigger and write the response you will use next time.",
+        "Practice one two-minute reset that supports {specialization} under pressure.",
+        "Remove one environmental distraction before starting today's main mission.",
+        "Write one if-then rule that makes the next {specialization} choice easier."
+      ],
+      "reflections": [
+        "Which trigger or choice affected my {specialization} progress today?",
+        "When did I act before I felt fully ready?",
+        "What made the good choice easier than usual today?",
+        "How can I reduce tomorrow's decision to one obvious action?"
+      ]
+    },
+    "STUDY": {
+      "examples": [
+        {"goal":"Prepare confidently for a mathematics exam","subCategory":"EXAM_PREP","timePerDay":"HOUR_1","difficulty":"NORMAL"},
+        {"goal":"Learn practical programming fundamentals","subCategory":"CODING","timePerDay":"HOUR_1","difficulty":"NORMAL"},
+        {"goal":"Finish one useful book every month","subCategory":"READING","timePerDay":"MIN_30","difficulty":"EASY"},
+        {"goal":"Complete an online course with real practice","subCategory":"ONLINE_COURSE","timePerDay":"MIN_30","difficulty":"NORMAL"},
+        {"goal":"Build a reliable university study system","subCategory":"SCHOOL_UNIVERSITY","timePerDay":"HOUR_1","difficulty":"HARD"},
+        {"goal":"Prepare for a professional certification","subCategory":"CERTIFICATION","timePerDay":"HOUR_2","difficulty":"HARD"}
+      ],
+      "actions": [
+        "learn one core concept and connect it to prior knowledge",
+        "practice active recall without looking at notes",
+        "solve one representative problem from start to finish",
+        "teach the idea aloud in plain language",
+        "correct one recurring error and write the rule behind it",
+        "create a short mixed review of older material",
+        "turn one difficult topic into smaller questions",
+        "complete one timed practice block and score it honestly"
+      ],
+      "skillQuests": [
+        "Create and answer three {specialization} recall questions without notes.",
+        "Summarize one {specialization} concept in five clear sentences.",
+        "Compare one correct and one incorrect solution to find the decisive step.",
+        "Build one compact study aid for a difficult {specialization} topic."
+      ],
+      "reflections": [
+        "What can I explain without looking, and where did recall fail?",
+        "Which mistake revealed the most useful gap in my understanding?",
+        "What should I review tomorrow before learning anything new?",
+        "Which study method produced the strongest evidence of learning today?"
+      ]
+    },
+    "LANGUAGE": {
+      "examples": [
+        {"goal":"Hold a ten-minute everyday conversation in Spanish","subCategory":"DAILY_CONVERSATION","timePerDay":"MIN_30","difficulty":"NORMAL"},
+        {"goal":"Build a useful vocabulary for daily life","subCategory":"VOCABULARY","timePerDay":"MIN_15","difficulty":"EASY"},
+        {"goal":"Understand natural spoken French more easily","subCategory":"LISTENING","timePerDay":"MIN_30","difficulty":"NORMAL"},
+        {"goal":"Speak English with more confidence","subCategory":"SPEAKING","timePerDay":"MIN_30","difficulty":"NORMAL"},
+        {"goal":"Write clear messages in German","subCategory":"WRITING","timePerDay":"MIN_30","difficulty":"NORMAL"},
+        {"goal":"Prepare for an official language exam","subCategory":"LANGUAGE_EXAM_PREP","timePerDay":"HOUR_1","difficulty":"HARD"}
+      ],
+      "actions": [
+        "learn useful phrases inside complete sentences",
+        "listen to a short passage more than once",
+        "speak for five minutes without reading",
+        "correct one recurring grammar or pronunciation mistake",
+        "reuse older vocabulary in a new situation",
+        "shadow a native recording and compare rhythm",
+        "write a short real-world message and revise it",
+        "simulate one conversation likely to happen this week"
+      ],
+      "skillQuests": [
+        "Use five {specialization} phrases aloud in original sentences.",
+        "Listen to one short clip and write the meaning before checking a transcript.",
+        "Record yourself speaking about one familiar topic, then correct one issue.",
+        "Review ten older words and use each one in a useful context."
+      ],
+      "reflections": [
+        "What could I understand or express today that was difficult before?",
+        "Which word or structure do I need to meet again tomorrow?",
+        "Where did I communicate meaning even without perfect language?",
+        "What real conversation can I use to test this week's progress?"
+      ]
+    },
+    "MONEY": {
+      "examples": [
+        {"goal":"Create and follow a practical monthly budget","subCategory":"BUDGETING","timePerDay":"MIN_15","difficulty":"EASY"},
+        {"goal":"Save a clear emergency fund target","subCategory":"SAVE_MONEY","timePerDay":"MIN_15","difficulty":"NORMAL"},
+        {"goal":"Validate a small weekend business idea","subCategory":"SIDE_HUSTLE","timePerDay":"MIN_30","difficulty":"NORMAL"},
+        {"goal":"Find the first customers for a useful service","subCategory":"CUSTOMER_RESEARCH","timePerDay":"HOUR_1","difficulty":"HARD"},
+        {"goal":"Create a simple offer and test real demand","subCategory":"SELL_PRODUCT","timePerDay":"HOUR_1","difficulty":"NORMAL"},
+        {"goal":"Learn responsible long-term investing basics","subCategory":"INVESTING_BASICS","timePerDay":"MIN_30","difficulty":"NORMAL"}
+      ],
+      "actions": [
+        "collect one real spending, customer, or market signal",
+        "improve one weak part of the financial plan",
+        "complete one concrete saving or revenue action",
+        "measure the result instead of relying on assumptions",
+        "remove one unnecessary cost or source of waste",
+        "compare two realistic options using the same criteria",
+        "talk to one potential customer without trying to sell",
+        "document one decision and the evidence behind it"
+      ],
+      "skillQuests": [
+        "Capture one real {specialization} customer, competitor, spending, or market signal.",
+        "Calculate one important cost, margin, saving rate, or risk in plain numbers.",
+        "Study one trustworthy {specialization} example and extract a testable lesson.",
+        "Write one assumption that must be validated before committing more money."
+      ],
+      "reflections": [
+        "What did today's evidence reveal about my {specialization} plan?",
+        "Which number matters most for the next financial decision?",
+        "Where am I relying on hope instead of a real signal?",
+        "What is the smallest low-risk test I can run tomorrow?"
+      ]
+    },
+    "CAREER": {
+      "examples": [
+        {"goal":"Build a stronger professional portfolio","subCategory":"PORTFOLIO","timePerDay":"HOUR_1","difficulty":"NORMAL"},
+        {"goal":"Create a focused CV for my target role","subCategory":"CV_RESUME","timePerDay":"MIN_30","difficulty":"NORMAL"},
+        {"goal":"Prepare confident answers for job interviews","subCategory":"INTERVIEW_PRACTICE","timePerDay":"MIN_30","difficulty":"NORMAL"},
+        {"goal":"Run a consistent and targeted job search","subCategory":"FIND_JOB","timePerDay":"HOUR_1","difficulty":"HARD"},
+        {"goal":"Build a reliable deep-work routine","subCategory":"WORK_PRODUCTIVITY","timePerDay":"MIN_30","difficulty":"NORMAL"},
+        {"goal":"Win my first well-matched freelance client","subCategory":"FREELANCING","timePerDay":"HOUR_1","difficulty":"HARD"}
+      ],
+      "actions": [
+        "improve one career asset that proves ability",
+        "practice one job-relevant skill with feedback",
+        "create visible evidence of completed work",
+        "contact one relevant person with a clear purpose",
+        "rewrite one weak claim using a measurable result",
+        "research one role, company, or client deeply",
+        "rehearse one difficult professional conversation",
+        "finish and share one small piece of polished work"
+      ],
+      "skillQuests": [
+        "Study one strong {specialization} example and apply one improvement to your own work.",
+        "Practice explaining one professional result clearly in under two minutes.",
+        "Ask for one specific piece of feedback on today's {specialization} work.",
+        "Collect one measurable proof point that strengthens your professional story."
+      ],
+      "reflections": [
+        "What proof of career progress did I create today?",
+        "Which part of my professional story became clearer?",
+        "What would make today's work credible to someone who does not know me?",
+        "Which relationship or skill deserves the next focused action?"
+      ]
+    },
+    "CREATOR": {
+      "examples": [
+        {"goal":"Publish one useful long-form video each week","subCategory":"YOUTUBE","timePerDay":"HOUR_1","difficulty":"NORMAL"},
+        {"goal":"Build a consistent short-form video practice","subCategory":"TIKTOK_REELS","timePerDay":"MIN_30","difficulty":"NORMAL"},
+        {"goal":"Develop a weekly illustration habit","subCategory":"ART_DESIGN","timePerDay":"HOUR_1","difficulty":"NORMAL"},
+        {"goal":"Release a short educational newsletter","subCategory":"WRITING_CREATOR","timePerDay":"MIN_30","difficulty":"NORMAL"},
+        {"goal":"Create and publish a four-track music demo","subCategory":"MUSIC","timePerDay":"HOUR_1","difficulty":"HARD"},
+        {"goal":"Build a realistic monthly publishing calendar","subCategory":"CONTENT_CALENDAR","timePerDay":"MIN_30","difficulty":"EASY"}
+      ],
+      "actions": [
+        "draft one audience-focused idea",
+        "strengthen the opening hook",
+        "produce one complete small section",
+        "publish one focused piece instead of polishing forever",
+        "study one useful audience response",
+        "reuse one strong idea in a different format",
+        "remove one production bottleneck",
+        "finish the next asset required for publication"
+      ],
+      "skillQuests": [
+        "Create three {specialization} hooks, titles, or angles before choosing one.",
+        "Study one effective piece in your niche and identify why it holds attention.",
+        "Practice one production technique for fifteen focused minutes.",
+        "Rewrite one idea so the audience benefit is obvious in the first sentence."
+      ],
+      "reflections": [
+        "What made today's {specialization} idea more useful to the audience?",
+        "Where did perfectionism slow down publication?",
+        "Which part of today's work is worth repeating or expanding?",
+        "What did audience behavior reveal that my assumptions missed?"
+      ]
+    },
+    "PROJECTS": {
+      "examples": [
+        {"goal":"Build a balcony herb shelf","subCategory":"DIY_PROJECT","timePerDay":"HOUR_1","difficulty":"NORMAL"},
+        {"goal":"Organize a neighborhood book swap","subCategory":"UNITY_PROJECT","timePerDay":"MIN_30","difficulty":"NORMAL"},
+        {"goal":"Create and test a useful product prototype","subCategory":"PRODUCT_PROTOTYPE","timePerDay":"HOUR_1","difficulty":"HARD"},
+        {"goal":"Plan a clear community information project","subCategory":"WEBSITE","timePerDay":"MIN_30","difficulty":"NORMAL"},
+        {"goal":"Complete a handmade gift collection","subCategory":"THREE_D_PRINTING","timePerDay":"HOUR_1","difficulty":"NORMAL"},
+        {"goal":"Design and run a small local event","subCategory":"STARTUP_PROTOTYPE","timePerDay":"HOUR_1","difficulty":"HARD"}
+      ],
+      "actions": [
+        "complete one visible piece of the project",
+        "test one important assumption with a simple prototype",
+        "fix the biggest source of friction",
+        "document the working process and next decision",
+        "reduce scope to the smallest useful version",
+        "ask one real person to test the result",
+        "finish one dependency that blocks later work",
+        "compare the current result with the original requirement"
+      ],
+      "skillQuests": [
+        "Study one {specialization} reference and record one lesson usable in today's work.",
+        "Sketch or outline the next project step before building it.",
+        "Test one risky assumption using the cheapest available method.",
+        "Document one technical or design decision so it does not need to be rediscovered."
+      ],
+      "reflections": [
+        "What became clearer after today's project session?",
+        "Which assumption was confirmed or disproved by real work?",
+        "What is the smallest complete result I can finish next?",
+        "Where should I cut scope to protect the deadline?"
+      ]
+    },
+    "LIFE": {
+      "examples": [
+        {"goal":"Organize a cluttered storage area","subCategory":"DECLUTTERING","timePerDay":"MIN_30","difficulty":"EASY"},
+        {"goal":"Create a simple weekly meal routine","subCategory":"MEAL_PREP","timePerDay":"MIN_30","difficulty":"NORMAL"},
+        {"goal":"Build a reliable home administration system","subCategory":"HOME_ADMIN","timePerDay":"MIN_30","difficulty":"NORMAL"},
+        {"goal":"Keep the main living space consistently clean","subCategory":"CLEANING","timePerDay":"MIN_15","difficulty":"EASY"},
+        {"goal":"Cook five dependable meals without stress","subCategory":"COOKING","timePerDay":"HOUR_1","difficulty":"NORMAL"},
+        {"goal":"Create more intentional family time each week","subCategory":"RELATIONSHIP_FAMILY","timePerDay":"MIN_30","difficulty":"NORMAL"}
+      ],
+      "actions": [
+        "finish one small physical or administrative area",
+        "improve one household routine",
+        "close one unfinished personal loop",
+        "prepare the next calm reset",
+        "remove one item or obligation that no longer helps",
+        "make one recurring task easier to repeat",
+        "complete one caring action without multitasking",
+        "prepare tomorrow's essentials before the day ends"
+      ],
+      "skillQuests": [
+        "Learn one simpler {specialization} routine and test its smallest version today.",
+        "Create a short checklist for one task that is often forgotten.",
+        "Place one useful object or reminder where the next action happens.",
+        "Ask one household member what would make the routine easier to maintain."
+      ],
+      "reflections": [
+        "What feels calmer or easier because of today's {specialization} action?",
+        "Which small change removed the most friction from daily life?",
+        "What can I prepare tonight to make tomorrow gentler?",
+        "Which routine is now simple enough to maintain without motivation?"
+      ]
+    },
+    "CUSTOM": {
+      "examples": [
+        {"goal":"Practice a useful skill consistently","timePerDay":"MIN_30","difficulty":"NORMAL"},
+        {"goal":"Complete a meaningful personal project","timePerDay":"HOUR_1","difficulty":"NORMAL"},
+        {"goal":"Build one positive habit for 30 days","timePerDay":"MIN_15","difficulty":"EASY"},
+        {"goal":"Prepare for an important personal milestone","timePerDay":"MIN_30","difficulty":"HARD"},
+        {"goal":"Turn a vague idea into a finished first version","timePerDay":"HOUR_1","difficulty":"HARD"},
+        {"goal":"Improve one area of life through daily experiments","timePerDay":"MIN_30","difficulty":"NORMAL"}
+      ],
+      "actions": [
+        "complete one useful action",
+        "build one foundation block",
+        "test progress against a clear standard",
+        "fix the largest current gap",
+        "repeat the action that produced the strongest result",
+        "remove one obstacle before starting",
+        "finish one small deliverable",
+        "record the next decision while the work is fresh"
+      ],
+      "skillQuests": [
+        "Study one example or standard that improves today's {specialization} work.",
+        "Practice one core technique for fifteen focused minutes.",
+        "Ask one precise question that removes uncertainty from the next step.",
+        "Compare today's result with one clear definition of done."
+      ],
+      "reflections": [
+        "What is the next smallest useful action?",
+        "Which part of today's work created real progress?",
+        "What uncertainty should I resolve before investing more effort?",
+        "What can I repeat tomorrow without needing extra motivation?"
+      ]
+    }
+  },
+  "parties": [
+    {"displayName":"Alex","partyName":"Steady Crew","pact":"We report honestly and help each other restart quickly.","checkIn":"Completed the planned focus session and prepared tomorrow's first step."},
+    {"displayName":"Jordan","partyName":"Daily Signal","pact":"We celebrate consistency, share useful feedback, and never shame missed days.","checkIn":"Finished the main objective and recorded one lesson."},
+    {"displayName":"Sam","partyName":"Forward Circle","pact":"We keep reports short, truthful, and focused on the next action.","checkIn":"Made progress on the priority task and scheduled the next session."},
+    {"displayName":"Taylor","partyName":"Momentum Team","pact":"We support steady effort and ask for help before getting stuck.","checkIn":"Completed today's practice and corrected two mistakes."},
+    {"displayName":"Morgan","partyName":"Clear Path","pact":"We respect privacy, report real progress, and return after setbacks.","checkIn":"Finished the minimum commitment and set up tomorrow's workspace."},
+    {"displayName":"Casey","partyName":"Quiet Progress","pact":"We value honest action over impressive promises.","checkIn":"Completed a smaller mission and kept the streak alive."},
+    {"displayName":"Riley","partyName":"Next Step Guild","pact":"We always leave each other with one clear next action.","checkIn":"Finished the first milestone and defined tomorrow's priority."},
+    {"displayName":"Jamie","partyName":"Focus Pact","pact":"We protect focused work and check in without judgment.","checkIn":"Protected one distraction-free session and shipped the planned result."}
+  ]
+}
